@@ -1,16 +1,5 @@
 # SleepSync Privacy Policy
 
-This repository contains the public privacy policy for **SleepSync** (iOS), by SudarshanTechLabs.
-
-- Privacy policy: [PRIVACY_POLICY.md](PRIVACY_POLICY.md)
-- Web version: https://sudarshanchaudhari.github.io/sleepsync-ios-privacy-policy/
-- Main app repository: https://github.com/SUDARSHANCHAUDHARI/SleepSyncIOS
-- Contact: sunny.sudarshan@gmail.com
-
----
-
-# SleepSync Privacy Policy
-
 **Effective Date:** July 5, 2026
 _Last updated: July 5, 2026_
 **Version:** 1.0.0
